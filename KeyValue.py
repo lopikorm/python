@@ -7,9 +7,7 @@ d = {
     'Litva':'Vilnus',
     'Estonia':'Tallin'
 }
-
 print (d)
-
 
 for k,v in d.items():
     k,v = v,k
